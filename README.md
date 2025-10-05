@@ -1,6 +1,7 @@
 # trans-c
 Script to print the transgender flag to your terminal
 supports multiple sizes, custom dimensions, borders, centering, a configuration file, messages on the flag
+
 Same as https://github.com/papaj2139/trans but in C
 
 # Requirements:
